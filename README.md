@@ -1,8 +1,6 @@
 # ZenViewTool
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/zen_view_tool`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+> ZenViewTool is a view specific method helper gem for generating generic HTML view components for your Rails application
 
 ## Installation
 
@@ -22,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ZenViewTool::Renderer.copyright 'Kayode Adeola', 'All rights reserved.'
+```
 
 ## Development
 
@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/zen_view_tool.
+Bug reports and pull requests are welcome on GitHub at https://github.com/monsieurkayode/zen_view_tool.
 
 ## License
 

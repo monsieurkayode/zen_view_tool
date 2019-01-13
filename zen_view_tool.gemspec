@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{ZenViewTool is a view specific method helper gem}
   spec.description   = %q{ZenViewTool generates generic HTML view components for Rails applications}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/monsieurkayode/zen_view_tool"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
